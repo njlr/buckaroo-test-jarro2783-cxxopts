@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-jarro2783-cxxopts",
+  "dependencies": {
+    "jarro2783/cxxopts": "1.4.0",
+    "google/gtest": "1.8.0"
+  }
+}
